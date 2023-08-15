@@ -1,8 +1,13 @@
-# hello-world
-just another repository
-# include<stdio.h>
+## hello-world
+This is my first program.
+
+这是我的第一个程序
+```
+# include<iostream>
+# include<string>
 int main()
 {
-  printf("Hello world!");
+  cout << "Hello World";
   return 0;
 }
+```
